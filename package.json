@@ -13,5 +13,6 @@
     "nodejs"
   ],
   "author": "suiGN",
-  "license": "MIT"
+  "license": "MIT",
+  "repoType": "NPM Package"
 }
