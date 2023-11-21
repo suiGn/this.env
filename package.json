@@ -1,0 +1,17 @@
+{
+  "name": "this.env",
+  "version": "0.0.1",
+  "description": "This enviroment.",
+  "main": "src/env.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "this",
+    "env",
+    "enviroments",
+    "nodejs"
+  ],
+  "author": "suiGN",
+  "license": "MIT"
+}
