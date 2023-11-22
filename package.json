@@ -12,6 +12,12 @@
     "enviroments",
     "nodejs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiGn/this.env.git"
+  },
+  "homepage": "https://www.npmjs.com/package/this.env",
+  "docs": "https://suiGn.github.io/this.env",
   "author": "suiGN",
   "license": "MIT",
   "repoType": "NPM Package"
