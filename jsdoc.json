@@ -4,8 +4,9 @@
   },
   "opts": {
     "destination": "./docs",
-    "template": "../neurons.me/src/assets/better-docs"
-  },
+    "template": "../../../../../Sandbox/dev_tools/assets/better-docs",
+    "readme": "./README.md"
+    },
   "templates": {
     "cleverLinks": false,
     "monospaceLinks": false,
@@ -23,16 +24,28 @@
         "css": "style.css",
         "trackingCode": "-",
   "hideGenerator": false,
-        "navLinks": [
-            {
-                "label": "Github",
-                "href": "https://github.com/suiGn/this.env"
-            },
-            {
-                "label": "App",
-                "href": "https://neurons.me"
-            }
-        ]
-    }
+  "navLinks": [
+    {
+      "label": "All.This",
+      "href": "https://suign.github.io/all.this/"
+  },
+  {
+    "label": "@Packages",
+    "href": "https://suign.github.io/pages/@packages.html"
+},
+      {
+          "label": "Github",
+          "href": "https://github.com/suiGn/cleaker"
+      },
+      {
+          "label": "Cleak .me",
+          "href": "https://cleaker.me"
+      },
+      {
+        "label": "What is all.this?",
+          "href": "https://www.neurons.me/this"
+      }
+  ]
+}
 }
 }

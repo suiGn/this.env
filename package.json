@@ -2,7 +2,7 @@
   "name": "this.env",
   "version": "0.0.1",
   "description": "This enviroment.",
-  "main": "src/env.js",
+  "main": "index.js",
   "scripts": {
     "test": "test"
   },
