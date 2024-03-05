@@ -1,6 +1,6 @@
 {
   "name": "this.env",
-  "version": "0.0.41",
+  "version": "0.0.42",
   "description": "Designed to serve as a cornerstone for ensuring the integrity and reliability of the operational environment, particularly in dynamic and intelligent systems.",
   "main": "index.js",
   "scripts": {
