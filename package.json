@@ -1,23 +1,24 @@
 {
   "name": "this.env",
-  "version": "0.0.3",
-  "description": "This enviroment.",
+  "version": "0.0.41",
+  "description": "Designed to serve as a cornerstone for ensuring the integrity and reliability of the operational environment, particularly in dynamic and intelligent systems.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "keywords": [
-    "this",
-    "env",
-    "enviroments",
-    "nodejs"
+    "environment-management", "code-integrity", "security", "non-mutable-codebase", "trust-management",
+    "digital-collaboration", "reliable-code-execution", "codebase-verification", "immutable-environment",
+    "trusted-computing", "nodejs", "javascript", "npm-package", "npm", "package", "this.env", "suiGn"
   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/suiGn/this.env.git"
   },
-  "homepage": "https://www.npmjs.com/package/this.env",
+  "homepage": "https://neurons.me",
   "docs": "https://suiGn.github.io/this.env",
+  "type":"module",
   "author": "suiGN",
   "license": "MIT",
   "repoType": "NPM Package",
