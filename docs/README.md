@@ -2,11 +2,19 @@
 
 <img src="https://suign.github.io/assets/imgs/this.env.locking.enviroments-removebg-preview.png" alt="this.env Art" width="244">
 
-# This.Env
+# THIS.ENV
 
-### [Under Development, Subject to Major Changes]
+-----------
 
-# Setting up your Context. 👋🏻👋🏼👋🏽👋🏾👋🏿
+### [Project Status : Experimental and Under Development, Subject to Major Changes]
+
+The module is in active development, and as such, it is subject to significant changes as we refine our approach and methodologies to best support our goals.
+
+visit: https://neurons.me to learn more.
+
+----------
+
+# Setting up your Context. 
 
 
 
@@ -100,6 +108,8 @@ By setting up `this.env` in this way, we create a cohesive system where modules 
 
 
 
+----------
+
 # About All.This
 
 ## Modular Data Structures:
@@ -118,13 +128,21 @@ By setting up `this.env` in this way, we create a cohesive system where modules 
 
 visit: [Neurons.me Glossary](https://suign.github.io/neurons.me/Glossary) 
 
-Learn more at https://neurons.me
+## License & Policies
 
-**Author:** SuiGn
+- **License**: MIT License (see LICENSE for details).
 
-[By neurons.me](https://neurons.me)
+- **Privacy Policy**: Respects user privacy; no collection/storage of personal data.
 
-<img src="https://suign.github.io/neurons.me/neurons_logo.png" alt="neurons.me logo" width="123" height="123" style="width123px; height:123px;">
+- **Terms of Usage**: Use responsibly. No guarantees/warranties provided. [Terms](https://www.neurons.me/terms-of-use) | [Privacy](https://www.neurons.me/privacy-policy)
+
+  **Learn more** at https://neurons.me
+
+  **Author:** SuiGn
+
+  [By neurons.me](https://neurons.me)
+
+  <img src="https://suign.github.io/neurons.me/neurons_logo.png" alt="neurons.me logo" width="123" height="123" style="width123px; height:123px;">
 
 
 
